@@ -10,7 +10,7 @@
 }
 
 .cor-especial {
-    color: darkred;
+    color: darkred!important;
 }
 
 .botao-fundo {
@@ -37,3 +37,5 @@
     object-fit: cover;
     height: 200px;
 }
+
+
