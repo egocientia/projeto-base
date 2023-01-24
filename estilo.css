@@ -1,0 +1,10 @@
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 400px;
+}
+
+.titulo-pacifico {
+    font-family: 'Pacifico', cursive;
+}
