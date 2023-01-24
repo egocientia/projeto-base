@@ -12,3 +12,12 @@
 .cor-especial {
     color: darkred;
 }
+
+.botao-fundo {
+    background-color: darkred;
+    color: white;
+}
+
+.card-color {
+    border-color: darkred;
+}
